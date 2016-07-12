@@ -1,0 +1,14 @@
+layout_spectrum: 0.5114208
+typography_spectrum: 0.541573
+color:
+  saturation: 0.4010372
+  lightness: 0.3296833
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#545454'
+    - '#818181'
+    - '#B7B7B7'
+  rhythmicContrast: 0.9788214
+name: Mellem
